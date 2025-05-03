@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MLOps, time-series algorithms and deep learning.
 - 💞️ I’m looking to collaborate with like-minded people on machine learning and deep learning projects.
 - 📫 How to reach me www.linkedin.com/in/jackson-rostagno on LinkedIn!
-- 🚀 The tools I currently use include uv, Marimo, Python, Tableau, Polars, pandas, SQL, Sci-kit Learn Ollama.
+- 🚀 The tools I currently use include uv, Marimo, Python, Tableau, Polars, pandas, SQL, Scikit-Learn, Ollama.
 - ⚡ Background: I have worked in the retail sector for over 12 years now, mainly in operations roles. I have just moved into my first data science role and am looking to continue growing and learning.
 
 <!---
