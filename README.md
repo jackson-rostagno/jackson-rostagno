@@ -7,9 +7,11 @@ I'm deeply curious about all things data and programming, from analytics to MLOp
 - Operationalising machine learning
 - LLM fine-tuning and post-training techniques
 - Backend-first, full-stack development for data products
+- Mobile app development
 
 ## 🌱 Currently Learning
 I'm focused on expanding my skills in:
+- **App Development** (Flutter and Dart)
 - **MLOps** (deployment, monitoring, reproducibility)
 - **Time-series algorithms** (including Prophet, ARIMA, and deep temporal models)
 - **LLM post-training techniques** (e.g. RAG, LoRA, fine-tuning)
@@ -19,7 +21,7 @@ I'm focused on expanding my skills in:
 I'm open to collaborating on machine learning and backend-focused projects — especially those with a real-world impact or open-source potential. If you're working on something exciting in the data, ML, or tools-for-developers space, let’s connect.
 
 ## 🚀 Tool Stack
-- **Languages & Frameworks:** Python, SQL, Go (learning)
+- **Languages & Frameworks:** Python, SQL, Dart/Flutter (learning)
 - **Data & ML:** Polars, pandas, Scikit-learn, PyTorch, Tableau, Marimo, HuggingFace, PyMC
 - **Dev & Ops:** uv, GitHub, VS Code, Docker, n8n, FastAPI, Django, Flask
 
