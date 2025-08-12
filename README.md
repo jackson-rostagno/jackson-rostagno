@@ -13,7 +13,6 @@ I'm deeply curious about all things data and programming, from analytics to MLOp
 I'm focused on expanding my skills in:
 - **App Development** (Flutter and Dart)
 - **MLOps** (deployment, monitoring, reproducibility)
-- **Time-series algorithms** (including Prophet, ARIMA, and deep temporal models)
 - **LLM post-training techniques** (e.g. RAG, LoRA, fine-tuning)
 - **Backend development** (Python, Go, APIs, and systems design)
 
